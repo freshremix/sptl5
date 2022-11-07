@@ -1,16 +1,6 @@
-pip==22.2.2
 streamlit
+pip
 python-telegram-bot==12.3.0
-python-dotenv==0.19.2
-spotdl==3.9.6
-pytube
-ytmusicapi
-spotipy
-requests
-yt-dlp==2022.9.1
-youtube_dl
-ffprobe
+python-dotenv
+pip install https://github.com/spot4s1/spotify-downloader/archive/refs/heads/master.zip
 imageio-ffmpeg==0.4.7
-static-ffmpeg
-ffmpeg
-python-ffmpeg
